@@ -12,8 +12,8 @@ function changePhoto(){
 }
 
 //from https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations
-var canvas = document.getElementById('canvas');
-var ctx = canvas.getContext('2d');
+var canvas = document.getElementById("canvas");
+var ctx = canvas.getContext("2d");
 
 var sun = new Image();
 var moon = new Image();
